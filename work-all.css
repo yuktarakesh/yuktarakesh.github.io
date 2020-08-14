@@ -66,13 +66,13 @@ a:hover {
 img {
     width: 100%;
     height: auto;
-    border-radius: 5px;
+    border-radius: 8px;
     
 }
 
 .location-listing {
     position: relative;
-    border-radius: 10px;
+    border-radius: 8px;
     border: .5px solid #008080;
     height: 225px;
 }
@@ -92,7 +92,7 @@ img {
     height: 100%;
     width: 100%;
     background: white;
-    border-radius: 10px;
+    border-radius: 8px;
     
     /* typographic styles */
     font-family: 'Muli', sans-serif;
@@ -112,5 +112,6 @@ img {
 .location-title:hover {
     opacity: 1;
 }
+
 
 

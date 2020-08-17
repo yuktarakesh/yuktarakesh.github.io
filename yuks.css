@@ -37,11 +37,12 @@ body {
 }
 
 img {
-    padding-top: 125px;
+    padding-top: 10%;
     padding-left: 10%;
     width: auto;
     height: 65%;
     float: left;
+    resize: auto;
 }
 
 .media {

@@ -15,7 +15,6 @@ body {
 
 .nav > li {
     display: inline;
-    padding: 0 25px 0 25px;
 }
 
 .nav > li > a {
@@ -46,24 +45,29 @@ img {
 }
 
 .media {
-    padding-top: 20px;
+    padding-top: 10px;
     float: below;
+    text-align: left;
+    font-size: 1.3vw;
 }
 .media > li {
     display: inline-block;
-    padding: 0 25px 0 25px;
+    padding: 0 25px 0 0px;
 }
 
 .media > li > a {
     text-decoration: none;
     color: #3f656f;
     display: block;
-    text-align: left;
+    padding-top: 15px;
+    text-align: right;
 }
 
 #contact {
     margin-top: 20px;
     text-align: left;
+    display:inline-block;
+    vertical-align:middle;
 }
 
 #col_2 {
@@ -81,13 +85,4 @@ img {
     text-align: left;
     color: #153f4a;
 }
-
-/*#col_3 {*/
-/*    resize: both;*/
-/*    overflow: auto;*/
-/*    float: left;*/
-/*    width: auto;*/
-/*    height: 100%;*/
-/*    background-color: white;*/
-/*}*/
 

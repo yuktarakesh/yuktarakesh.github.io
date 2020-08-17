@@ -8,15 +8,14 @@ body {
 .nav {
     background-color: #40808f;
     list-style: none;
-    text-align: right;
-    padding: 30 100 20 0;
-    font-size: 25px;
+    text-align: left;
+    padding: 30 75 20 75;
+    font-size: 1.5vw;
     font-family: 'Montserrat', sans-serif;
 }
 
 .nav > li {
-    display: inline-block;
-    padding: 0 25px 0 25px;
+    display: inline;
 }
 
 .nav > li > a {
@@ -27,13 +26,6 @@ body {
 
 .nav > li > a:hover {
     color: black;
-}
-
-#work-cat {
-    padding-top: 4%;
-    margin-left: 4%;
-    margin-right: 4%;
-    text-align: center;
 }
 
 .buttons {

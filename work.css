@@ -9,7 +9,8 @@ body {
     background-color: #40808f;
     list-style: none;
     text-align: left;
-    padding: 30 75 20 75;
+    padding-top: 2%;
+    padding-bottom: 2%;
     font-size: 1.5vw;
     font-family: 'Montserrat', sans-serif;
 }
